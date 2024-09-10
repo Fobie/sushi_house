@@ -1,0 +1,23 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+    font-family: domine;
+    src: url(./assets/fonts/Domine-Regular.ttf);
+}
+
+@font-face {
+    font-family: outfit;
+    src: url(./assets/fonts/Outfit-Regular.ttf);
+}
+
+@font-face {
+    font-family: pecita;
+    src: url(./assets/fonts/Pecita.otf);
+}
+
+@font-face {
+    font-family: sansita;
+    src: url(./assets/fonts/Sansita-Regular.ttf);
+}
